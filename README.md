@@ -1,8 +1,8 @@
 ## TODO 
-## List Flutter Application 
+### List Flutter Application 
 Welcome to the TODO List Flutter Application, a project developed during the Flutter Hackathon. This application is designed to efficiently manage tasks using Flutter, a popular UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
-## Objectives
+### Objectives
 - Gain proficiency in Flutter development.
 - Understand state management in Flutter applications.
 - Implement various UI components and widgets.
@@ -10,16 +10,16 @@ Welcome to the TODO List Flutter Application, a project developed during the Flu
 - Enhance understanding of app navigation and routing.
 - Implement features like task management, search functionality, and more.
 
-## Folder Structure
-## Model
+### Folder Structure
+#### Model
 The model folder defines the structure of the to-do items:
-## To-Do Item Model:
+#### To-Do Item Model:
 - name: The name of the task that will be displayed.
 - id: A unique identifier used for functionality like deleting a specific item.
 - isCompleted: A boolean value indicating whether the task is accomplished.
 screens
-## The screens folder contains UI views of the application:
 
+### The screens folder contains UI views of the application:
 - Task List Screen: 
 Displays the list of tasks with checkboxes and delete icons for each task.
 - Add Task Screen: 
@@ -30,7 +30,7 @@ The widgets folder contains reusable components:
 - Task Widget:
 Manages the layout and behavior of individual tasks displayed in the list. Includes a checkbox to mark task completion and an icon for deleting the task.
 
-## Features
+### Features
 - Task Management: Add, edit, and delete tasks.
 - Mark tasks as completed or pending.
 - Search Functionality: Search for specific tasks by name.
@@ -38,43 +38,42 @@ Manages the layout and behavior of individual tasks displayed in the list. Inclu
 
 ## screens
 
-## Home screen
+### Home screen
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/All%20completed%20tasks%20listTile.PNG?raw=true)
 
 
-## Drawer
+### Drawer
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/drawer.PNG?raw=true)
 
 
-## All Completed Tasks
+### All Completed Tasks
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/completedTaskLstTile.PNG?raw=true)
 
 
-## Pending Tasks
+### Pending Tasks
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/pendingListTile.PNG?raw=true)
 
-## Search
+### Search
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/Search.PNG?raw=true)
 
 
-## Help
+### Help
 - Contains both help and FAQ sections
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/HelpLT.PNG?raw=true)
 
 
-## Help section
+### Help section
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/Manual.PNG?raw=true)
 
 
-## FAQ Section
-
-- Adding a FAQ
+### FAQ Section
+#### Adding a FAQ
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/FaqAddScreen.PNG?raw=true)
 
-- Deleting a Faq
+#### Deleting a Faq
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/DeletefaqSlidable.PNG?raw=true)
 
-- Faq Delete result
+#### Faq Delete result
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/deletedResult.PNG?raw=true)
 
 ## Logout Screen

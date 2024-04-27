@@ -37,14 +37,19 @@ Manages the layout and behavior of individual tasks displayed in the list. Inclu
 
 
 ## screens
+
 ## Home screen
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/All%20completed%20tasks%20listTile.PNG?raw=true)
+
 
 ## Drawer
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/drawer.PNG?raw=true)
 
+
 ## All Completed Tasks
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/completedTaskLstTile.PNG?raw=true)
+
+
 ## Pending Tasks
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/pendingListTile.PNG?raw=true)
 
@@ -56,10 +61,13 @@ Manages the layout and behavior of individual tasks displayed in the list. Inclu
 - Contains both help and FAQ sections
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/HelpLT.PNG?raw=true)
 
+
 ## Help section
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/Manual.PNG?raw=true)
 
+
 ## FAQ Section
+
 - Adding a FAQ
 ![login](https://github.com/josefwambua/TodoApp_Flutter_Hackathon/blob/main/Screenshots/FaqAddScreen.PNG?raw=true)
 
@@ -82,8 +90,10 @@ To get started with the TODO List Flutter Application,
 - Run the application on your preferred device or emulator using flutter run.
 - Start managing your tasks efficiently with the TODO List app!
 
+
 ## Contribution Guidelines
 Contributions to the TODO List Flutter Application are welcome! If you have any improvements, suggestions, or bug fixes, feel free to open an issue or submit a pull request following the contribution guidelines outlined in the repository..
+
 
 ## Acknowledgements
 This project was developed during the Flutter Hackathon.
